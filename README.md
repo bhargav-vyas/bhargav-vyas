@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhargav-vyas
-- 👀 I’m interested in ...full stack developer,AWS,Cloud,IOT
-- 🌱 I’m currently learning ...full stack developer paython, React,
+- 👋 Hi, I’m @bhargav-vyas full stack java developer 
+- 👀 I’m interested in ....,AWS,Cloud,IOT
+- 🌱 I’m currently learning ..., React Devops,
 - 📫 How to reach me ...with github, gmail,linkedin
 - 😄 Pronouns: ...Bhargav
 - ⚡ Fun fact: ...
